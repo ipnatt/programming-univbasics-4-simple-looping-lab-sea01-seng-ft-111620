@@ -20,3 +20,5 @@ while counter < array.length do
     counter += 1
   end
 end
+
+def return_string_array(array)
